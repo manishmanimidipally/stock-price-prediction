@@ -30,7 +30,7 @@ Installation & Usage
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/manishmanimidipally/stock-price-prediction.git
 cd stock-price-prediction
 
 Install Dependencies:
