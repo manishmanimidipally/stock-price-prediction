@@ -57,6 +57,10 @@ Contributing
 
 Contributions are welcome! Feel free to fork this repository, submit issues, or make pull requests.
 
+outputs
+![image](https://github.com/user-attachments/assets/ac1d160e-d67b-4b47-8155-afd7254de98c)
+![image](https://github.com/user-attachments/assets/37ffce33-9be2-4893-80da-3f97b2106df0)
+
 License
 
 This project is licensed under the MIT License.
